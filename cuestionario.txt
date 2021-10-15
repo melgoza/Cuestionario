@@ -1,0 +1,31 @@
+Juan Pablo Melgoza Pérez        8°3         Juan Pablo Melgoza Pérez    
+
+1.- En tus palabras, ¿Qué es internet?
+Es una red inmensa que la utilizamos para compartir información, que está escrita en código binario, unos y ceros, son las dos maneras en las que un bit puede estar.
+
+
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Cables, routers, señales, wifi, etc
+
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+EL IP es el internet protocol, que ayuda a mandar información de un dispositivo a otro, tu mandas información a una dirección, pero también mandas tu direción IP, para que ese dispositivo sepa a que dirección mandar una respuesta.
+Los DNS son los que te ayudan a entrar a un sitio web, el DNS busca la dirección IP del sitio web para que tu ingreses en él.
+
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Primero se divide en varios paquetes de información, porque una canción es pesada, y después tiene la IP a donde tiene que llegar, y esa información se manda por redes.
+
+Describe los protocolos que existen en internet, en específico HTTP y HTML
+HTTP es una forma de que una computadora le pida acceso a un sitio web, tu computadora manda un "get request" a el servidor de ese sitio, lo que está pidiendo el "get request" es el código en html de ese sitio.
+HTML es el lenguaje que le dice a una página como presentarse, el tamaño de letra, la fuente, si quieres poner negritas, texto qeu te enlace a otras páginas, etc.
+
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+Cifrar información es poner esa información revuelta, para que no puedan leerla, y decifrar, es poner esa información en su estado original, lo que hacen es cifrar esa información con una excacta convinación de bits etre muchisísimas convinaciones posibles, 
+para que alguien que quiera robarte información tome mucho tiempo en adividar el número excacto, otra manera es qeu tengas una llave pública, osea que cualquiera te pueda mandarte información cifrada, pero que solo tu puedas desifrar esa información, así tu tienes tu información segura.
+
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+No abrir archivos, páginas o enlaces por curiosidad si no estamos seguros que están protegidos con HTTPS, tampoco abrir archivos que lleguen a nuestros correos, porque pueden ser llamativos para que le des clic, pero en realidad se está instalando un virus, o estás dando información privada,
+por eso es también es importante tener un antivirus, que nos ayude en ocaciones que tengamos instalado algo vulnerable, en el que un virus haya entro sin permiso.
+
+¿Cómo funciona la búsqueda de google?
+Es un algoritmo que está hecho para buscar en los miles y millones de sitios, las palabras que estás buscando, así tener los mejores resultados, pero a veces eso no es suficiente, por eso también esos algoritmos está siendo cada vez mejores,
+ahora el algoritmo de google también te da resultados de sitios por su significado y no solo por que las palabras coincidan.
